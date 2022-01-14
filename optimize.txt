@@ -1,0 +1,5 @@
+[I 2021-06-30 22:42:15,330] Trial 19 finished with value: 21.88326644897461 and parameters: {'cycle_loss_rate': 6.709093780780398, 'identity_loss_rate': 8.177172227097982}. Best is trial 16 with value: 21.869915008544922.
+
+trial 19    trained_weight_A2B_2021-6-30_22-42-15.pth trained_weight_B2A_2021-6-30_22-42-15.pth
+[I 2021-06-30 22:24:12,621] Trial 16 finished with value: 21.869915008544922 and parameters: {'cycle_loss_rate': 5.888410899862398, 'identity_loss_rate': 6.979781810619751}. Best is trial 16 with value: 21.869915008544922.
+trial 16    trained_weight_A2B_2021-6-30_22-24-12.pth trained_weight_B2A_2021-6-30_22-24-12.pth
